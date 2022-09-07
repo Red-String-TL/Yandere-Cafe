@@ -1,0 +1,50 @@
+{
+	"title": "Welcome to The Yandere Cafe",
+	"description": "Translated with the artist's permission. Genres: Yandere, Cafe Setting, Sweet, Stupid MC",
+	"artist": "@ominomiya3",
+	"author": "@ominomiya3",
+	"cover": "https://pbs.twimg.com/profile_images/1499068102440779776/IBwQX91u_400x400.png",
+	"chapters": {
+		"1": {
+			"title": "Chapter 1",
+			"volume": "1",
+			"groups": {
+				"Red String": "/proxy/api/imgur/chapter/qcWvA1f/"
+			},
+			"last_updated": "1643603742"
+		},
+		"2": {
+			"title": "Chapter 2",
+			"volume": "1",
+			"groups": {
+				"Red String": "/proxy/api/imgur/chapter/MMvgV69/"
+			},
+			"last_updated": "1643603742"
+		},
+		"3": {
+			"title": "Chapter 3",
+			"volume": "1",
+			"groups": {
+				"Red String": "/proxy/api/imgur/chapter/nrwW2gD/"
+			},
+			"last_updated": "1643603742"
+		},
+		"4": {
+			"title": "Chapter 4",
+			"volume": "1",
+			"groups": {
+				"Red String": "/proxy/api/imgur/chapter/UZisrEQ/"
+			},
+			"last_updated": "1643801137"
+		},
+		"5": {
+			"title": "Chapter 5 - Coming Soon",
+			"volume": "1",
+			"groups": {
+				"Red String": "/proxy/api/imgur/chapter/VuLGwyQ/"
+			},
+			"last_updated": "1643979911"
+
+		}
+	}
+}
